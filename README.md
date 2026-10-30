@@ -119,4 +119,4 @@ This project is licensed under the MIT License. Add a `LICENSE` file if you choo
 ## 👤 Author
 
 **Your Name**
-GitHub: [@shashankyadav9899](https://github.com/shashankyadav9899) · LinkedIn: [shashankyadav9899](https://linkedin.com/in/shashankyadav9899)
+GitHub: [@shashankyadav9899](https://github.com/shashankyadav9899) · LinkedIn: [shashankyadav9899](https://www.linkedin.com/in/shashank-yadav-574019448/)
