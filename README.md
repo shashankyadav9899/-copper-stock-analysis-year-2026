@@ -1,0 +1,1 @@
+# -copper-stock-analysis-year-2026
